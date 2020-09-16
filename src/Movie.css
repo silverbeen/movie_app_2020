@@ -7,6 +7,12 @@
     padding-top: 70px;
     width: 80%;
   }
+.movie:hover{
+  -webkit-transform:scale(0.9);
+    transform:scale(1.2);
+    -webkit-transition:.4s;
+    transition:.4s;
+}
   
   .movies .movie {
     width: 45%;
